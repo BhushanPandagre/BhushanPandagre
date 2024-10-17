@@ -1,6 +1,10 @@
 # 💫 About Me:
 - 👋 Hi, I’m @BhushanPandagre
-- 👀 I’m interested in Coding
+- 👀 I’m interested in:
+                       Exploring new technologies and frameworks in web development.
+                       Contributing to open-source projects and collaborating with other developers.
+                       Learning more about cloud services and deployment strategies.
+                       Building user-friendly and accessible web applications.
 - 🌱 I’m currently learning Advanced Node.js features and exploring TypeScript for better type safety in my projects.
 - 💞️ I’m looking to collaborate on Open-source projects related to web development or anyone interested in creating innovative tools using the MERN stack.
 - 📫 How to reach me: You can reach me via [pandagrebhushan3@gmail.com] or connect with me on [www.linkedin.com/in/
