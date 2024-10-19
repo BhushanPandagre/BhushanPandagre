@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @BhushanPandagre
+- 👋 Hi, I’m @Bhushan Pandagre
 - 👀 I’m interested in:<br><br>
       Exploring new technologies and frameworks in web development.<br><br>
       Contributing to open-source projects and collaborating with other developers.<br><br>
