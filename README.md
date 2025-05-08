@@ -1,17 +1,28 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Bhushan Pandagre
-- 👀 I’m interested in:<br><br>
-      Exploring new technologies and frameworks in web development.<br><br>
-      Contributing to open-source projects and collaborating with other developers.<br><br>
-      Learning more about cloud services and deployment strategies.<br><br>
-      Building user-friendly and accessible web applications.<br><br>
-- 🌱 I’m currently learning Advanced Node.js features and exploring TypeScript for better type safety in my projects.
-- 💞️ I’m looking to collaborate on Open-source projects related to web development or anyone interested in creating innovative tools using the MERN stack.
-- 📫 How to reach me: You can reach me via [pandagrebhushan3@gmail.com] or connect with me on [www.linkedin.com/in/
-bhushan-pandagre
-].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a simple game using React and Node.js just for fun, and it turned into a mini-hackathon project with friends!
+# 💫 About Me
+
+- 👋 Hi, I’m **Bhushan Pandagre**  
+- 👀 **Passionate About:**  
+  - Exploring cutting-edge web technologies and frameworks  
+  - Contributing to open-source projects and collaborating with the dev community  
+  - Building accessible, user-friendly web applications  
+  - Diving deeper into cloud infrastructure and deployment best practices  
+
+- 🌱 **Currently Learning:**  
+  - Advanced features in **Node.js**  
+  - Embracing **TypeScript** for improved code quality and type safety  
+
+- 🤝 **Looking to Collaborate On:**  
+  - Open-source web development projects  
+  - Innovative tools built with the **MERN stack** or related technologies  
+
+- 📫 **Reach Me At:**  
+  - ✉️ [pandagrebhushan3@gmail.com](mailto:pandagrebhushan3@gmail.com)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/bhushan-pandagre)  
+
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun Fact:**  
+  I once created a simple game using React and Node.js just for fun — and it ended up turning into a mini-hackathon with my friends!
+
 
 <!---
 BhushanPandagre/BhushanPandagre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
