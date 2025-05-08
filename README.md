@@ -60,9 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BhushanPandagre&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BhushanPandagre&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanPandagre&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BhushanPandagre&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhushanPandagre&theme=radical&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanPandagre&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhushanpandagre&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
